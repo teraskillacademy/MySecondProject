@@ -1,0 +1,1 @@
+README.md created to check the commits from VSCOde wthout using terminal commands
